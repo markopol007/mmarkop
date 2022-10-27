@@ -1,0 +1,134 @@
+body {
+	font-family: Arial, Helvetica, sans-serif;
+	margin: 50px 0 0 50px;
+}
+#zadatak3 h1{
+	color: midnightblue;
+	border-bottom: 3px double currentColor;
+}
+#zadatak3 h1, #zadatak3 table{
+	width: 340px;
+}
+#zadatak3 table{
+	border-collapse: collapse;
+}
+#zadatak3 th{
+	font-size: 20px;
+	font-weight: bold;
+	background-color: midnightblue;
+	text-transform: uppercase;
+	color: white;
+	text-align: center;
+	height: 40px;
+}
+#zadatak3 td{
+	border: 1px solid black;
+}
+#zadatak3 tr:nth-child(2n){
+	background-color: whitesmoke;
+}
+
+#zadatak4{
+	margin: 100px 0;
+	width: 400px;
+	height: 400px;
+}
+#zadatak4 table {
+	width: 200px;
+	height: 200px;
+	float: left;
+	border: 5px solid black;
+	box-sizing: border-box;
+}
+#crveni {
+	background-color: red;
+	border-radius: 30px 70px 0 70px;
+}
+#zeleni {
+	background-color: forestgreen;
+	border-radius: 70px 30px 70px 0;
+}
+#plavi {
+	background-color: blue;
+	border-radius: 70px 0 70px 30px;
+}
+#zuti {
+	background-color: goldenrod;
+	border-radius: 0 70px 30px 70px;
+}
+
+#zadatak5 {
+	margin: 100px 0 1000px;
+	clear: both;
+}
+#zadatak5 ul {
+	list-style: none;
+	padding: 0;
+}
+#zadatak5 li {
+	width: 200px;
+	padding-left: 30px;
+	background-color: darkslateblue;
+	border-bottom: 1px solid white;
+	list-style: none;
+	
+}
+
+#zadatak5 p{
+	color: white
+}
+
+#zadatak5 li a{
+	color: white;
+	text-transform: uppercase;
+	font-family: Calibri;
+	font-size: 20px;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+#zadatak5 li:first-child a:hover{
+	font-family: Courier;
+	font-size: 22px;
+	text-shadow: 3px 3px 2px palevioletred;
+}
+#zadatak5 li:nth-child(2) a:hover{
+	font-style: italic;
+}
+#zadatak5 li:nth-child(3) a:hover {
+	background-color: palevioletred;
+}
+#zadatak5 li:nth-child(4) a:hover {
+	color: palevioletred;
+}
+#zadatak5 li:nth-child(5) a:hover {
+	text-decoration: underline;
+	color: darkslateblue;
+	}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
